@@ -55,5 +55,5 @@ e2.grid(row=1, column=1)
 e3.grid(row=2, column=1)
 e4.grid(row=3, column=1)
  
-tk.Button(master,text='SEND MESSAGE', command=send_message).grid(row=4,column=1)#,sticky=tk.W,pady=1)
+tk.Button(master,text='SEND MESSAGE', command=send_message).grid(row=4,column=1)
 master.mainloop()
