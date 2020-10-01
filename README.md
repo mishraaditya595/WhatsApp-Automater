@@ -1,2 +1,2 @@
-# WhatsApp-Automater
-Suppose you want to send a happy birthday message to someone at exactly 00:00 but you might be busy in some other work at that point in time due to which you are not able to access your phones or other similar stuff. For that purpose I came up with an idea of Oblivia which will do the job for you.
+# Oblivia
+Oblivia is an automated Whatsapp Message Sender. Oblivia makes it easy for you to send messages to people at a predefined time which you can set according to you. A very good example of this could be suppose that you want to wish someone one there Birthday at exactly 12 but you are sleepy, you could type in the message you want to be sent and the time at which you want the message to be sent. The application would send it to the contact chosen at the exact time.
